@@ -1,7 +1,8 @@
-# "HTML for Beginners"
+# HTML Project "The Little Taco Shop"
 
-### Full Course - 10 Chapters
+## Forked from [Dave Gray's GitHub](https://github.com/gitdagray/html_course)
 
+---
 ---
 
 ### Author Links
